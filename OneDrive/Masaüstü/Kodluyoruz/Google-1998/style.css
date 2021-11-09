@@ -1,0 +1,33 @@
+/* .info {
+    float: left
+} */
+/* div{
+    border: 1px solid black;
+    margin: 10px;
+} */
+
+.searchBox {
+    padding-bottom: 8px;
+}
+.container{
+    display: flex;
+}
+.searchs{
+    background-color:#7EE5DA;
+    width: 33%;
+}
+.info{
+    background-color : #70CCC2;
+    width: 33%;
+    
+}
+
+.aElementOfHelp{
+    display: block;
+}
+
+.inputBoxAndUpdateBox{
+    text-align: center;
+    background: #62B3AA;
+    width: 34%;
+}
